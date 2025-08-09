@@ -72,13 +72,16 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-![Main Interface](https://github.com/user-attachments/assets/main-interface.png)
+![Main Interface](<img width="1361" height="871" alt="main" src="https://github.com/user-attachments/assets/72c6648c-3d97-477b-aa48-78f080327964" />
+)
 *Main interface showing the title "What's My Poop Mood?" with floating tissue animations and mood selection options*
 
-![Mood Selection Active](https://github.com/user-attachments/assets/mood-selection-active.png)
+![Mood Selection Active](<img width="1159" height="874" alt="mood selection" src="https://github.com/user-attachments/assets/627b9c85-b73c-4262-9d23-7b21f618688a" />
+)
 *User interface with a selected mood showing the glowing animation effect and music indicator*
 
-![Poop Mood Result](https://github.com/user-attachments/assets/poop-result.png)
+![Poop Mood Result](<img width="1335" height="871" alt="flush" src="https://github.com/user-attachments/assets/15c0757d-113b-45ea-a0e4-d77d039b93b5" />
+)
 *Result display showing the animated poop emoji, funny response text, and sharing buttons*
 
 # Diagrams
